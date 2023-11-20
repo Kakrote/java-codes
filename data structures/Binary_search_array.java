@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class Binary_search_array {
     static int[] sorting(int a[],int l){
